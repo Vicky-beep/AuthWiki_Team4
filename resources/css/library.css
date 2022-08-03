@@ -2,6 +2,7 @@
 body{
     font-family: 'manrope', sans-serif;
     background: url(./images/Background\ .svg);
+    overflow-x: hidden;
 }
 header{
     margin-bottom: 6rem;
